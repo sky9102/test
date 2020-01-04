@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+.index-wrap {
+    height: 100%;
+    font-family: 'PingFang SC',
+        'Helvetica Neue',
+        'Helvetica',
+        'Arial',
+        sans-serif;
+}
